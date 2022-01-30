@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI Basics</string>
+    <string name="app_version">1.0.1beta</string>
+    <string name="button_msg">Login</string>
+    <string name="username_hint">Please Insert Yourt Username</string>
+    <string name="password_hint">Insert Your Password</string>
+    <string name="icon_content">Login Icon</string>
+</resources>
